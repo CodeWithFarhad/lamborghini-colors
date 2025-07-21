@@ -84,7 +84,7 @@ lamborghini/
 
 - Lamborghini images: © Lamborghini (for demo purposes)
 - UI inspired by modern automotive websites
-- Built with ❤️ by [Your Name]
+- Built with ❤️ by [Farhad Ahmad]
 
 ---
 
